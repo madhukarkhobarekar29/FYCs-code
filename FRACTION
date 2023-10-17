@@ -1,0 +1,11 @@
+from fractions import Fraction
+
+# Define two fractions
+fraction1 = Fraction(1, 2)  # 1/2
+fraction2 = Fraction(1, 4)  # 1/4
+
+# Perform subtraction
+result = fraction1 - fraction2
+
+# Print the result
+print("The result of subtraction is:", result)
